@@ -1,2 +1,1 @@
-# repositoriohenry
-tarea del modulo 2 de henry
+este repositorio es ka tare del modulo 2
